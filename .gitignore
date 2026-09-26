@@ -1,0 +1,21 @@
+# Logs & DB temp files
+*.log
+*.db-journal
+*.db-wal
+*.tmp
+
+# Node modules & build outputs
+node_modules/
+dist/
+build/
+.output/
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
